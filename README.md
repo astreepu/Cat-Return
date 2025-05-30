@@ -1,6 +1,3 @@
-# Cat Return
-This is an RPG website game that tells the story of a stray cat in school who solves students' problems to repay the kindness she received.
-
 ## Requirements
 
 [Node.js](https://github.com/phaserjs/template-webpack-ts.git) is required to install dependencies and run scripts via `npm`.
